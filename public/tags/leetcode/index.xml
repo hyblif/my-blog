@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>LeetCode on My New Hugo Project</title>
-    <link>https://example.org/tags/leetcode/</link>
-    <description>Recent content in LeetCode on My New Hugo Project</description>
+    <title>LeetCode on 找工日记</title>
+    <link>//localhost:1313/tags/leetcode/</link>
+    <description>Recent content in LeetCode on 找工日记</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/leetcode/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/leetcode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LeetCode Hot 100: 两数之和</title>
-      <link>https://example.org/posts/leetcode-hot100-no1/</link>
+      <link>//localhost:1313/posts/leetcode-hot100-no1/</link>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/leetcode-hot100-no1/</guid>
+      <guid>//localhost:1313/posts/leetcode-hot100-no1/</guid>
       <description>&lt;h2 id=&#34;题目描述&#34;&gt;题目描述&lt;/h2&gt;
 &lt;p&gt;给定一个整数数组 &lt;code&gt;nums&lt;/code&gt; 和一个整数目标值 &lt;code&gt;target&lt;/code&gt;，请你在该数组中找出 和为目标值 &lt;code&gt;target&lt;/code&gt;  的那 两个 整数，并返回它们的数组下标。&lt;/p&gt;
 &lt;p&gt;你可以假设每种输入只会对应一个答案，并且你不能使用两次相同的元素。&lt;/p&gt;
