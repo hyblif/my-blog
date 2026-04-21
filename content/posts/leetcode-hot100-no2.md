@@ -14,7 +14,7 @@ draft : false
 
 ## 代码
 ### C++实现
-```c++
+```C++
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
